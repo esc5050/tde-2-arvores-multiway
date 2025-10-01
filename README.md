@@ -2,14 +2,12 @@
 
 Grupo 2
 
-Gustavo Lona Grespan
-Antonia Bernardo
-Julia Machado Kociolek
+- Gustavo Lona Grespan
+- Antonio Bernardo
+- Julia Machado Kociolek
 
 ---
 
 ## Estrutura de Árvore Multiway escolhida.
 
 > Árvore 2-3
-
----
