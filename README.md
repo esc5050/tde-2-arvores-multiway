@@ -6,8 +6,6 @@ Grupo 2
 - Antonio Bernardo
 - Julia Machado Kociolek
 
----
-
 ## Estrutura de Árvore Multiway escolhida.
 
 - Árvore 2-3
