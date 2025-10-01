@@ -10,4 +10,4 @@ Grupo 2
 
 ## Estrutura de Árvore Multiway escolhida.
 
-> Árvore 2-3
+- Árvore 2-3
